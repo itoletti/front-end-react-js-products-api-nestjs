@@ -1,0 +1,11 @@
+Arrancar servicio MongoDB
+
+Arrancar servidor Back-End Productos (ejecutará en el puerto 3000)
+
+cd C:\Workspace\NestJS\nestjs-products-api 
+npm run start
+
+Arrancar servicio Front-End Productos (ejecutará en el puerto 8001)
+
+cd C:\Workspace\REACT\REACT-NestJs_products_api
+npm run start
